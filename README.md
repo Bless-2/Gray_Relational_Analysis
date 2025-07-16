@@ -6,9 +6,9 @@
 
 ##### 结果解释：
 
-![折线图](E:/GithubProjects/Gray_Relational_Analysis/README.assets/折线图.png)
+![折线图](README.assets/折线图.png)
 
-![灰色关联度](E:/GithubProjects/Gray_Relational_Analysis/README.assets/灰色关联度.png)
+![灰色关联度](README.assets/灰色关联度.png)
 
 由结果可知，第三产业与对gdp的影响最大，其灰色关联度为0.76。
 
